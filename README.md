@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning GitHub Skills
 <!--
 **benm3-trt/benm3-trt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
